@@ -13,15 +13,6 @@ Welcome to my GitHub profile! I'm a seasoned Automation QA with 5 years of exper
 - Advanced Playwright features
 - Techniques for optimizing test performance
 - Latest trends in testing tools and methodologies
-- 
-
-## 💞️ I’m looking to collaborate on:
-- Innovative testing projects
-- Open-source testing tools
-- Technology tutorials and content creation
-
-## 📫 How to reach me:
-- [YouTube](https://www.youtube.com/mychannel)
 
 ## ⚡ Fun fact:
 - I once built a testing tool from scratch in a weekend!
