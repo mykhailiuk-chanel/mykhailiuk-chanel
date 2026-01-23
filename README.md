@@ -17,4 +17,4 @@ Welcome to my GitHub profile! I'm a seasoned Automation QA with 5 years of exper
 ## ⚡ Fun fact:
 - I once built a testing tool from scratch in a weekend!
 
-Feel free to connect or check out my latest projects and videos!
+Feel free to connect or check out my latest projects and videos! > vmykhailiuk.chanel@gmail.com
